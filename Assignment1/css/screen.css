@@ -1,0 +1,91 @@
+/* Add your CSS below
+	border-color: #63D776;
+	border-style: ridge;
+	border-width: 10px;
+*/
+
+.headerImg{
+	width:100%;
+	border-color: #63D776;
+	border-style: ridge;
+	border-width: 7px;
+}
+
+.mainBody{
+	border-color: #63D776;
+	border-style: ridge;
+	border-width: 7px;
+	background-image:url(../images/black.jpg);
+	width:100%;
+	margin-bottom:-20px;
+}
+
+.green {
+	color:#63D776;
+}
+
+.leftSide {
+    width: 70%;
+    text-align:left;
+    padding-left:7px;
+	 padding-top:5px;
+}
+
+.rightSide {
+	float:right;
+	margin-left:10px;
+	margin-right:20px;
+	padding-bottom:20px;
+	width: 28%;
+}
+.sideImage {
+
+}
+
+html {
+	background-color:#000;
+	background-image:url(../images/black.jpg);
+	font-family:Arial, Helvetica, sans-serif;
+	line-height:normal;
+	font-size:18px;
+}
+
+body {
+	width: 60%;
+	margin: 1.5em auto; /* this + a defined width, centers the body content */
+	padding: 50px;
+	background-color:#969696;
+	background-image:url(../images/grey_wash_wall.gif);
+
+}
+
+h1 {
+	text-align: center;
+	color: #969696;
+	padding:10px;
+	padding-top:0px;
+}
+
+h2 {
+	padding-left: 2px;
+	color: #969696;
+}
+
+
+ul > li {
+    color: #63D776;
+}
+
+ul > li > span{
+    color:#FFF;
+}
+
+p {
+	color:#FFF;
+	margin-left:5%;
+	margin-right:45px;
+}
+
+img {
+
+}

@@ -1,0 +1,64 @@
+/* Add your CSS below */
+
+/* Example: adding a background color to the HTML body */
+body {
+  /* #ccc is shorthand HEX for a light grey */
+  background: #ccc;
+  width: 550px;
+  margin: auto;
+}
+p, h1, nav {
+  text-align: center;
+}
+
+h1 {
+  margin: 0px
+}
+
+ul {
+  padding-left: 0px;
+  background-color: #f4d742;
+  width: 155px;
+  margin: auto;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+li {
+  list-style: none;
+  display: inline;
+  font-weight: bold;
+  padding: 2px;
+}
+
+
+
+section {
+  background-color: #FFF;
+  border-radius: 20px;
+  padding: 20px;
+}
+
+a, a:visited {
+  text-decoration: none;
+  color: inherit;
+}
+
+img {
+  width: 300px;
+  height: auto;
+  display: block;
+  padding-bottom: 10px;
+  margin: auto;
+}
+.Current {
+  color:#ff0000;
+}
+
+#Red {
+  color: red;
+}
+
+#Green {
+  color: green;
+}

@@ -1,0 +1,78 @@
+/* Add your CSS below */
+
+/* Example: adding a background color to the HTML body */
+body {
+  /* #ccc is shorthand HEX for a light grey */
+  background: linear-gradient(0deg, #ccc, #000);
+  width: 900px;
+  margin: auto;
+  padding: 25px;
+}
+
+html {
+  background: linear-gradient(0deg, #000, #ccc);
+}
+
+h2 {
+  text-align: center;
+  width: 300px;
+  background-color: #ccc;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 100px;
+  box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.5);
+}
+
+h1 {
+  text-align: center;
+  color: white;
+}
+
+p {
+  text-align: center;
+}
+
+ul {
+  padding-left: 0px;
+  width: 300px;
+  margin: auto;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+li {
+  list-style: none;
+  padding: 4px;
+  padding-left: 0px;
+}
+
+section {
+  background-color: #FFF;
+  border-radius: 20px;
+  padding: 20px;
+  width: 500px;
+  margin: auto;
+  margin-bottom: 5px;
+  padding-top: 5px;
+
+}
+img {
+  width: 300px;
+  height: auto;
+  display: block;
+  margin: auto;
+  border-radius: 10px;
+  box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.5);
+}
+
+a {
+  text-decoration: none;
+  font-weight: bold;
+  color: #000;
+  background-color: #ccc;
+  padding: 2px 20px 2px 20px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 100px;
+  box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.5);
+}

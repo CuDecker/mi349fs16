@@ -1,0 +1,39 @@
+The content sections:
+Personal,
+   - Bio
+   - Hobbies
+   - Contact
+
+Professional
+   - Intro
+   - Resume
+   - Skills
+   - Experience
+
+Skills
+
+Education
+   - Colleges
+   - Accomplishments
+
+Personal Draft:
+Curtis Decker found himself entrenched in a quaint city, Laingsburg. After touring several colleges, he found himself in love with a college just four times the size of his high school of about 400 people. Wanting to be just far enough away from his parents to learn to fly on his own, but still just close enough should anything happen he decided the tiny college 100 miles away was a perfect suit. After two wonderful years, Curtis realized how passionate he was about web design but more importantly technology. He ditched his business/supply chain major and went touring again for a school with a greater focus on technology. He found a perfect match in MSU. It was insane how much if felt like home, he practically had grown up in this city his whole life. Skip ahead a few more years and Curtis finds himself immersed in everything on front-facing web development. 
+
+Curtis enjoys to slow things down in his life. He'll work hard so that he can take the saved time and take the scenic route home. He loves technology and to tinker with things. Some see him as a nerd, and his glasses certainly don't help! But he's accepted that fact years ago and doesn't skip a beat. He has this weird obsession with food, especially the sushi and desserts. Often told he's a compassionate guy, he finds a lot of pleasure in stranger's smiles. 
+
+Professional Draft:
+I am keen for web developer activities, especially those with aspects focused on front-end development. 
+
+I have often been the "front-line" defense. I was always the person who received a request first and would handle it or pass it along and ask for help. I've worked as a tutor/teacher's assistant for quite a bit too. I was entrusted in taking a rubric, grading students and helping those who needed help. I think the greatest non-technical thing I've learned from both of these jobs is how important it is to avoid jargon or to learn how to change your vocabulary on the fly to allow the non-technical person to understand what you're trying to help them with. 
+
+Here's my resume and following it my references.
+
+Any questions I'd be happy to go into greater detail with you!
+Email me at: Blah Blah Blah
+
+Skills Draft:
+I've been working with HTML and CSS for almost 5 years now. I am confident in my proficiency with these two languages. I have also learned Python, a bit of C#, JavaScript and still actively learning!
+
+I've always been a people person, and though I classify myself as someone who is more antisocial as I've always been content with myself, I do enjoy helping others. My family is rather large and because of that, I've learned to be pretty open about my feelings and thoughts. That doesn't mean I'm super blunt to a point where it's considered rude. But, rather something less aggressive and much more transparent. If I don't know something, I'll let one know. Certainly, I'll be quick to add that I will get back to them once I do.
+
+For a long time at college, I wasn't really interested in looking at student groups or other activities other than college itself. In recent years that's changed. I am an active part of my fraternity even though I'm considered alumni now, I keep going back. Currently, I am also an E-board member of ASCOT (Associated Students for Career Orientation in Technology)

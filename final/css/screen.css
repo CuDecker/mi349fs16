@@ -1,0 +1,106 @@
+html{
+  background-color: #FFF;
+	color: #606060;
+}
+
+body{
+	background-color: #d7d7d7;
+	width: 60%;
+	margin: auto;
+	padding-bottom: 1px;
+}
+
+img {
+	border: 15px solid #d7d7d7;
+	border-radius: 100%;
+	width: 200px;
+}
+footer {
+	text-align: center;
+
+}
+.mainSection {
+	width: 90%;
+	margin: 8% auto 0 auto;
+	background-color: #FFF;
+	text-align: center;
+	padding-bottom: 30px;
+}
+
+.header {
+background-color: #606060;
+padding: 15px 20px 20px 20px;
+
+}
+
+.header h1{
+	display:inline;
+	color: #FFF;
+}
+
+.nav {
+float: right;
+padding: 10px 0px 10px 0px;
+color: #FFF;
+font-size: 1.3em;
+}
+
+.nav a{
+	color: #FFF;
+	text-decoration: none;
+}
+
+.mainBody {
+	padding: 1px 20px 0px 0px;
+	text-align: justify;
+}
+.mainBody p {
+	margin-top: 1em;
+	margin-bottom: 1em;
+}
+.greyHeader{
+  width: 97%;
+	height: 1.7em;
+	margin: auto;
+	background-color: #d7d7d7;
+}
+
+.greyHeader h2{
+	margin: inherit;
+	text-align: center;
+	background-color: #d7d7d7;
+
+}
+
+.greyHeader-1{
+padding: 0 11% 0 11%;
+}
+
+.greyHeader-2{
+padding: 0 11% 0 11%;
+}
+
+.greyHeader-3{
+padding: 0 0 0 11%;
+}
+.greyHeader-4{
+padding: 0 0 0 15%;
+}
+
+.hobbyImages {
+	width: 699px;
+	margin: auto;
+	display:inline-block;
+}
+.leftimg {
+	float: left;
+	margin: 0px 20px 0px 0px;
+}
+.left {
+	float: left;
+	margin: 0px 0px 0px 0px
+}
+
+.right {
+	float: left;
+}

@@ -1,6 +1,8 @@
 html{
   background-color: #FFF;
 	color: #606060;
+  max-width: 1750px;
+
 }
 
 body{
@@ -8,6 +10,8 @@ body{
 	width: 60%;
 	margin: auto;
 	padding-bottom: 1px;
+  border: 0px solid #d7d7d7;
+  border-radius: 20px;
 }
 
 img {
@@ -17,19 +21,23 @@ img {
 }
 footer {
 	text-align: center;
-
 }
+
 .mainSection {
 	width: 90%;
 	margin: 8% auto 0 auto;
 	background-color: #FFF;
 	text-align: center;
 	padding-bottom: 30px;
+  border: 0px solid #606060;
+  border-radius: 20px;
 }
 
 .header {
 background-color: #606060;
 padding: 15px 20px 20px 20px;
+border: 0px solid #606060;
+border-radius: 20px;
 
 }
 
@@ -58,6 +66,11 @@ font-size: 1.3em;
 	margin-top: 1em;
 	margin-bottom: 1em;
 }
+
+.darkBackground{
+  background-color: #606060;
+}
+
 .greyHeader{
   width: 97%;
 	height: 1.7em;
@@ -83,19 +96,18 @@ padding: 0 11% 0 11%;
 .greyHeader-3{
 padding: 0 0 0 11%;
 }
+
 .greyHeader-4{
 padding: 0 0 0 15%;
 }
 
-.hobbyImages {
-	width: 699px;
-	margin: auto;
-	display:inline-block;
-}
+
+
 .leftimg {
 	float: left;
 	margin: 0px 20px 0px 0px;
 }
+
 .left {
 	float: left;
 	margin: 0px 0px 0px 0px
@@ -103,4 +115,81 @@ padding: 0 0 0 15%;
 
 .right {
 	float: left;
+}
+
+.socialBar {
+  position: fixed;
+  top: 50px;
+  left: 0px;
+  background-color: #d7d7d7;
+  border: 5px solid #d7d7d7;
+  border-radius: 0px 30px 30px 0px;
+}
+
+.socialImg {
+  width: 40px;
+  border: 5px solid #d7d7d7;
+	border-radius: 100%;
+  display: block;
+
+}
+
+.Text {
+  text-align: justify;
+  padding: 0px 10% 0 10%
+}
+
+/* Flex */
+.flexcontainer {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  text-align: center;
+
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+
+  -webkit-flex-flow: row wrap;
+  justify-content: space-around;
+}
+
+/* Hobby Specifics*/
+.hobbyImages {
+	width: 699px;
+	margin: auto;
+	display:inline-block;
+}
+
+/* Index Specifics */
+.indexImg {
+  margin-top: -100px;
+
+}
+
+.indexBody {
+  margin-top: 150px;
+
+}
+
+/* Skill/Professional Specifics */
+.skillImg {
+  border: 15px solid #d7d7d7;
+	border-radius: 20%;
+	width: 250px;
+  height: 200px;
+}
+
+/* Javascript stuff */
+
+#showhide {
+ display: none;
+}
+
+.button {
+}
+#divSection {
+display: none;
 }

@@ -1,5 +1,5 @@
 function toggle(){
-    var div = document.getElementById("divSection");
+    var div = document.getElementById("resume");
     if (div.style.display =='block'){
         div.style.display = 'none';
         return;

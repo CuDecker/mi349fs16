@@ -2,7 +2,7 @@ html{
   background-color: #FFF;
 	color: #606060;
   max-width: 1750px;
-
+  margin: auto;
 }
 
 body{
@@ -76,12 +76,14 @@ font-size: 1.3em;
 	height: 1.7em;
 	margin: auto;
 	background-color: #d7d7d7;
+  margin-bottom: 1%;
 }
 
 .greyHeader h2{
 	margin: inherit;
 	text-align: center;
 	background-color: #d7d7d7;
+
 
 }
 
@@ -105,7 +107,7 @@ padding: 0 0 0 15%;
 
 .leftimg {
 	float: left;
-	margin: 0px 20px 0px 0px;
+	margin: 1% 20px 0px 1%;
 }
 
 .left {
@@ -136,7 +138,7 @@ padding: 0 0 0 15%;
 
 .Text {
   text-align: justify;
-  padding: 0px 10% 0 10%
+  padding: 3% 10% 0 10%
 }
 
 /* Flex */
@@ -145,6 +147,7 @@ padding: 0 0 0 15%;
   margin: 0;
   list-style: none;
   text-align: center;
+
 
   display: -webkit-box;
   display: -moz-box;
@@ -155,6 +158,7 @@ padding: 0 0 0 15%;
   -webkit-flex-flow: row wrap;
   justify-content: space-around;
 }
+
 
 /* Hobby Specifics*/
 .hobbyImages {
@@ -172,6 +176,17 @@ padding: 0 0 0 15%;
 .indexBody {
   margin-top: 150px;
 
+}
+
+.indexText {
+  text-align: justify;
+  padding: 0% 10% 0 10%
+}
+
+/* Personal Specifics */
+.personalText {
+  text-align: justify;
+  padding: 3% 10% 0 10%
 }
 
 /* Skill/Professional Specifics */
@@ -192,4 +207,29 @@ padding: 0 0 0 15%;
 }
 #divSection {
 display: none;
+}
+
+
+/* Media Query*/
+@media only screen and (max-width: 1050px) {
+  .header {
+        padding: 15px 20px 0px 20px;
+  }
+  .nav {
+    text-align: center;
+    display: block;
+    float: none;
+  }
+  .leftimg{
+    float: none;
+    margin: 1% 0 1% 0;
+
+  }
+  .personalText {
+    padding: 0 10% 0 10%;
+  }
+  .personalText h2 {
+    margin-top: 0;
+    text-align: center;
+  }
 }

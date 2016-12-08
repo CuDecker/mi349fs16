@@ -3,6 +3,7 @@ html{
 	color: #606060;
   max-width: 1750px;
   margin: auto;
+  font-family: "ImprintMT Shadow", JavaneseText;
 }
 
 body{
@@ -19,8 +20,21 @@ img {
 	border-radius: 100%;
 	width: 200px;
 }
+img:hover {
+  	border: 15px solid #bb9eff;
+}
 footer {
 	text-align: center;
+}
+
+a {
+  color: #bb9eff;
+  text-decoration: none;
+}
+
+a:hover{
+  text-decoration: underline;
+
 }
 
 .mainSection {
@@ -58,6 +72,11 @@ font-size: 1.3em;
 	text-decoration: none;
 }
 
+.nav a:hover{
+  color: #bb9eff;
+
+}
+
 .mainBody {
 	padding: 1px 20px 0px 0px;
 	text-align: justify;
@@ -83,8 +102,6 @@ font-size: 1.3em;
 	margin: inherit;
 	text-align: center;
 	background-color: #d7d7d7;
-
-
 }
 
 .greyHeader-1{
@@ -102,8 +119,6 @@ padding: 0 0 0 11%;
 .greyHeader-4{
 padding: 0 0 0 15%;
 }
-
-
 
 .leftimg {
 	float: left;
@@ -133,7 +148,10 @@ padding: 0 0 0 15%;
   border: 5px solid #d7d7d7;
 	border-radius: 100%;
   display: block;
+}
 
+.socialImg:hover{
+	border: 5px solid #bb9eff;
 }
 
 .Text {
@@ -204,7 +222,12 @@ padding: 0 0 0 15%;
 }
 
 .button {
+  cursor: pointer;
 }
+.button:hover{
+  color: #bb9eff;
+}
+
 #resume {
 display: none;
 }
